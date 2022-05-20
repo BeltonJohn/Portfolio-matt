@@ -1,0 +1,122 @@
+#skills-section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  background-image: url('../assets/skills.jpg');
+  background-size: cover;
+ 
+  height: 100vh;
+  z-index: -10;
+  
+}
+
+#skills-title {
+  color: #E0E0E0;
+padding-top: 6%;
+margin-bottom: -12%;
+margin-left: -2%;
+font-size: 50px;
+}
+
+.skills-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+margin-top: -5%;
+z-index: -11;
+  height: 100vh
+  
+
+}
+
+.languages {
+  width: 300px;
+  height: 150px;
+  padding-right: 15px;
+  padding-left: 15px;
+  color: #E0E0E0;
+ 
+}
+
+h2 {
+padding-bottom: 20px;
+font-size: 28px;
+}
+
+.version-control {
+width: 300px;
+height: 150px;
+padding-right: 15px;
+padding-right: 15px;
+color: #E0E0E0;
+
+}
+
+.databases {
+width: 300px;
+height: 150px;
+padding-right: 15px;
+padding-left: 15px;
+color: #E0E0E0;
+
+}
+
+.skills-icons {
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 70px;
+color: #E0E0E0;
+z-index: -10;
+background-position-x: center;
+margin-top: -10%;
+
+}
+
+.devicon {
+  font-size: 30px;
+ 
+}
+
+.specific-skills {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 26px;
+  word-spacing: 10px;
+  line-height: 1.4;
+}
+
+@media only screen and (max-width: 800px) {
+  .skills-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto
+   
+  }
+  .version-control  {
+    margin-left: 30px;
+    margin-top: 35px;
+  }
+
+  .specific-skills {
+    font-size: 18px;
+  }
+
+  .languages, h2{
+    font-size: 20px;
+  }
+
+  .skills-icons {
+    display: none
+  }
+  #skills-title {
+    display: none
+  }
+}

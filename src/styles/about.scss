@@ -1,0 +1,56 @@
+.hero-about {
+  background-color: #FFFF8F;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#about-section {
+  width: 600px;
+  height: 700px;
+  font-size: 20px;
+  margin-top: 2.5%;
+  border: 12px solid #4F7942;
+  color: #023020;
+  border-radius: 10px;
+  padding: 12px
+  
+
+}
+#tree {
+
+  height: 600px;
+  width: 620px;
+  background-image: url('../assets/tree.png');
+  display: flex;
+  background-size: cover;
+  margin-left: 10px;
+  margin-bottom: 5px;
+
+
+}
+  p {
+
+    font-size: 20px;
+  }
+
+    @media only screen and (max-width: 800px) {
+      #tree {
+        display: none;
+      }
+    
+      #about-section, p {
+        font-size: 16px;
+        margin: 10px
+      }
+        
+      .hero-about {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: -12;
+      
+      }
+    }
+    

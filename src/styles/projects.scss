@@ -1,0 +1,136 @@
+
+#projects-title {
+  padding: 80px;
+  font-size: 50px;
+  color: #023020;
+}
+
+.projects-display {
+  background-color: #FFFF8F;
+  // width: 100vw;
+  display:  flex;
+  flex-direction: column;
+  align-items: center;
+
+  
+
+}
+.individual-project {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1%
+}
+#nibbler {
+  width: 340px;
+  height: 220px;
+  background-image: url('../assets/nibbler.png');
+  background-size: cover;
+  border-radius: 3px;
+  margin: 30px;
+  border: 12px solid #4F7942;
+    border-radius: 10px;
+}
+
+#doggopedia {
+  width: 340px;
+  height: 220px;
+  background-image: url('../assets/doggopedia.png');
+  background-size: cover;
+  border-radius: 3px;
+  margin: 30px;
+  border: 12px solid #4F7942;
+    border-radius: 10px;
+
+}
+
+#purely {
+  width: 340px;
+  height: 220px;
+  background-image: url('../assets/purely.png');
+  background-size: cover;
+  background-position: 45%;
+  border-radius: 3px;
+  margin: 30px;
+  border: 12px solid #4F7942;
+    border-radius: 10px;
+
+}
+
+#ecomo {
+  width: 340px;
+  height: 220px;
+  background-image: url('../assets/ecomo.png');
+  background-size:cover;
+  background-position: 35%;
+  border-radius: 3px;
+  margin: 30px;
+  border: 12px solid #4F7942;
+  border-radius: 10px;
+
+}
+.project-titles {
+  font-size: 30px;
+  margin-bottom: 15px;
+
+}
+
+.project-links {
+  display: inline-flex;
+  margin-top: 15px;
+  
+}
+.each-project {
+  display: flex;
+  flex-direction: row;
+  padding: 25px
+}
+.project-info {
+  display: flex;
+  flex-direction: column;
+  min-width: none;
+  max-width: 700px;
+  padding: 30px;
+  margin-left: 70px;
+  border: 12px solid #4F7942;
+  border-radius: 10px;
+  color: #023020;
+  box-shadow: 3px grey;
+}
+.project-links {
+  font-size: 20px;
+  margin-right: 20px
+}
+
+a.project-links:hover {
+  color: #702963;
+  text-decoration: underline;
+}
+a.project-links {
+  color:#702963;
+  text-decoration: none;
+}
+a.project-links:visited {
+  color: #702963;
+  text-decoration: none;
+}
+@media only screen and (max-width: 800px) {
+ #purely {
+    display: none;
+  }
+  #ecomo {
+    display: none
+  }
+  #doggopedia {
+    display: none;
+  }
+  #nibbler {
+    display: none;
+  }
+  .project-info {
+    margin: 0 auto
+  }
+    #projects-title {
+      display: none;
+    }
+}

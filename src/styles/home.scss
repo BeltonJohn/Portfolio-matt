@@ -1,0 +1,36 @@
+.info-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url('../assets/earth.jpg');
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  color: #D0D0D0
+}
+
+.home-container{
+display: flex;
+justify-content: center;
+}
+
+#name {
+  padding: 3%;
+  font-size: 80px;
+}
+@media only screen and (max-width: 800px) {
+  .info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+    #name {
+      font-size: 40px;
+    }
+  
+}
+
+
