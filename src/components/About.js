@@ -17,9 +17,9 @@ function About() {
         </p>
         <br />
         <p>
-          I have a passion for the environment having obtained an honors degree
-          in Environmental Science many moons ago. When I’m away from my machine
-          I can usually be found outdoors with my dog. I found her living in a
+          I have a passion for nature having obtained an honors degree in
+          Environmental Science many moons ago. When I’m away from my machine I
+          can usually be found outdoors with my dog. I found her living in a
           cave in the Sierra Nevada mountains in Spain and brought her back to
           the UK last year.
         </p>
