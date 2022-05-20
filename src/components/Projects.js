@@ -32,7 +32,8 @@ function Projects() {
               target='_blank'
               className='project-links'
             >
-              <AiIcons.AiOutlineGithub /> View Readme
+              <AiIcons.AiOutlineGithub />
+              View Readme
             </a>
           </div>
         </div>

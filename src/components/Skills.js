@@ -9,21 +9,21 @@ const Skills = () => {
       <h1 id='skills-title'>My Skills</h1>
       <div className='skills-list-with-icons'>
         <div className='skills-list'>
-          <div className='languages'>
-            <h2>Languages & Libraries</h2>
+          <div className='skills-actual'>
+            <h2 className='skills-headings'>Languages & Libraries</h2>
             <p className='specific-skills'>
               HTML5 | CSS | SCSS | JavaScript | React.js | Node.js | Express |
               NPM | Yarn | Python
             </p>
           </div>
-          <div className='version-control'>
-            <h2>Version Control & Storage</h2>
+          <div className='skills-actual'>
+            <h2 className='skills-headings'>Version Control & Storage</h2>
             <p className='specific-skills'>
               Git | GitHub | Command Line | Heroku | Netlify
             </p>
           </div>
-          <div className='databases'>
-            <h2>Databases and Managment</h2>
+          <div className='skills-actual'>
+            <h2 className='skills-headings'>Databases and Managment</h2>
             <p className='specific-skills'>
               PostgreSQL | MySQL | MongoDB | Django | TablePlus | Postman
             </p>

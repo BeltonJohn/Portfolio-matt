@@ -30,13 +30,17 @@ z-index: -11;
 
 }
 
-.languages {
+.skills-actual {
   width: 300px;
   height: 150px;
   padding-right: 15px;
   padding-left: 15px;
   color: #E0E0E0;
+
  
+}
+.skills-headings {
+  font-size: 34px;
 }
 
 h2 {
@@ -44,23 +48,9 @@ padding-bottom: 20px;
 font-size: 28px;
 }
 
-.version-control {
-width: 300px;
-height: 150px;
-padding-right: 15px;
-padding-right: 15px;
-color: #E0E0E0;
 
-}
 
-.databases {
-width: 300px;
-height: 150px;
-padding-right: 15px;
-padding-left: 15px;
-color: #E0E0E0;
 
-}
 
 .skills-icons {
 display: flex;
@@ -92,7 +82,7 @@ margin-top: -10%;
   .skills-list {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     font-size: 14px;
     width: 100vw;
@@ -100,6 +90,10 @@ margin-top: -10%;
     margin: 0 auto
    
   }
+  .skills-actual {
+    margin: 10px
+  }
+
   .version-control  {
     margin-left: 30px;
     margin-top: 35px;
