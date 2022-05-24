@@ -8,7 +8,8 @@
 }
 
 #about-section {
-  width: 600px;
+  min-width: 300px;
+  max-width: 640px;
   height: 700px;
   font-size: 20px;
   margin-top: 2.5%;
