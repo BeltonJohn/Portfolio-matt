@@ -1,6 +1,7 @@
 .hero-about {
-  background-color: #FFFF8F;
-    height: 100vh;
+  background-color: #FFD700;
+  padding-bottom: 200px;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -53,4 +54,10 @@
       
       }
     }
+        @media only screen and (max-height: 700px) {
+            #about-section{
+              margin-top: 10%;
+              position: relative
+            }
+        }
     

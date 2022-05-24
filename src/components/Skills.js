@@ -16,16 +16,17 @@ const Skills = () => {
               NPM | Yarn | Python
             </p>
           </div>
-          <div className='skills-actual'>
-            <h2 className='skills-headings'>Version Control & Storage</h2>
-            <p className='specific-skills'>
-              Git | GitHub | Command Line | Heroku | Netlify
-            </p>
-          </div>
+
           <div className='skills-actual'>
             <h2 className='skills-headings'>Databases and Managment</h2>
             <p className='specific-skills'>
               PostgreSQL | MySQL | MongoDB | Django | TablePlus | Postman
+            </p>
+          </div>
+          <div className='skills-actual'>
+            <h2 className='skills-headings'>Version Control & Storage</h2>
+            <p className='specific-skills'>
+              Git | GitHub | Command Line | Heroku | Netlify
             </p>
           </div>
         </div>
