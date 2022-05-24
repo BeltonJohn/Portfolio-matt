@@ -60,7 +60,9 @@
         @media only screen and (max-height: 700px) {
             #about-section{
               margin-top: 10%;
-              position: relative
+              position: relative;
+              min-height: fit-content;
+                max-height: fit-content;
             }
         }
     
