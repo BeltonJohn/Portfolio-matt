@@ -9,7 +9,7 @@ const Skills = () => {
       <h1 id='skills-title'>My Skills</h1>
       <div className='skills-list-with-icons'>
         <div className='skills-list'>
-          <div className='skills-actual'>
+          <div className='skills-actual' id='languages'>
             <h2 className='skills-headings'>Languages & Libraries</h2>
             <p className='specific-skills'>
               HTML5 | CSS | SCSS | JavaScript | React.js | Node.js | Express |
