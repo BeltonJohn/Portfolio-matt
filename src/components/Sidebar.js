@@ -30,7 +30,7 @@ function Sidebar() {
               return (
                 <li key={index} className={item.cName} id='navbar-items'>
                   <Link to={item.path}>
-                    {item.icon}
+                    <div id='sidebar-icon'>{item.icon}</div>
                     <span>{item.title}</span>
                   </Link>
                 </li>

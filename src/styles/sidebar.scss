@@ -28,6 +28,11 @@
   z-index: 50;
   opacity: 0.9;
 }
+@media only screen and (max-width: 800px) {
+  .nav-menu {
+    width: 170px
+  }
+}
 
 .nav-menu.active { 
   left:0;
@@ -56,6 +61,13 @@
   padding: 01 16px;
   border-radius: 4px
 }
+ @media only screen and (max-height: 400px) {
+  .nav-text  {
+    font-size: 18px;
+    padding: none
+
+  }
+ }
 
 // .nav-text a:hover {
 //   background-color: green;
@@ -77,4 +89,13 @@ nav-menu-items {
 
 span {
   margin-left: 16px
+}
+path {
+  color: #C0C0C0;
+  margin-top: 20px;
+}
+.navbar-items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

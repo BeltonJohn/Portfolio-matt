@@ -12,13 +12,13 @@
   max-width: 550px;
   min-height: fit-content;
   max-height: fit-content;
-
+  background-color: #C0C0C0;
   font-size: 20px;
-  margin-top: 4.5%;
+  margin: 4.5%;
   border: 6px solid #353935;
   color: #353935;
   border-radius: 10px;
-  padding: 12px
+  padding: 16px
 
 }
 #tree {
@@ -42,7 +42,9 @@
       #tree {
         display: none;
       }
-    
+      #about-section h2 {
+        margin-left: 10px
+      }
       #about-section p {
         font-size: 16px;
         margin: 10px
