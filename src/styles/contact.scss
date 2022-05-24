@@ -32,22 +32,21 @@ background-size: cover;
 }
 
 /* unvisited link */
-a:link {
+.contact a:active {
   color: #C0C0C0;
   text-decoration: none;
 }
 
 /* visited link */
-a:visited {
+.contact a:visited {
   color: #C0C0C0;
 }
 
 /* mouse over link */
-a:hover {
+.contact a:hover {
   color: #FFFF8F;
 }
 
-/* selected link */
-a:active {
-  color: #FFFF8F
+#email {
+  color: #C0C0C0;
 }

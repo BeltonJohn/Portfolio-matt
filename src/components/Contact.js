@@ -13,7 +13,10 @@ function Contact() {
           <a href='https://github.com/BeltonJohn'>
             <AiIcons.AiFillGithub /> GitHub
           </a>
-          <a href='mailto:creesematthew1@gmail.com?subject=get in contact'>
+          <a
+            href='mailto:creesematthew1@gmail.com?subject=get in contact'
+            id='email'
+          >
             <AiIcons.AiTwotoneMail /> Email
           </a>
         </div>
