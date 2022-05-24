@@ -29,9 +29,7 @@ z-index: -11;
   
 
 }
-#languages {
-  margin-bottom: 9%;
-}
+
 
 .skills-actual {
   width: 300px;
@@ -93,9 +91,7 @@ margin-top: -7%;
     margin: 0 auto
    
   }
-  .skills-headings {
-    margin-left: 10px
-  }
+ 
   .skills-actual {
     margin: 10px
   }
@@ -119,6 +115,9 @@ margin-top: -7%;
   #skills-title {
     display: none
   }
+    #languages {
+      margin-bottom: 6%;
+    }
 }
 
 @media only screen and (max-height: 550px) {

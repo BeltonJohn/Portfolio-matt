@@ -1,7 +1,7 @@
 .hero-about {
   background-color: #FFD700;
   padding-bottom: 200px;
-    height: 100%;
+    height: vh100;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -9,17 +9,16 @@
 
 #about-section {
   min-width: 300px;
-  max-width: 640px;
+  max-width: 550px;
   min-height: fit-content;
   max-height: fit-content;
-  height: 700px;
+
   font-size: 20px;
-  margin-top: 1.5%;
+  margin-top: 4.5%;
   border: 6px solid #353935;
   color: #353935;
   border-radius: 10px;
   padding: 12px
-  
 
 }
 #tree {
@@ -44,7 +43,7 @@
         display: none;
       }
     
-      #about-section, p {
+      #about-section p {
         font-size: 16px;
         margin: 10px
       }
