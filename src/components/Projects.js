@@ -25,6 +25,7 @@ function Projects() {
               href='https://bit.ly/37ZMiKK'
               target='_blank'
               className='project-links'
+              rel='noreferrer'
               id='nibbler-website'
             >
               <BsIcons.BsLink45Deg />
@@ -34,6 +35,7 @@ function Projects() {
             <a
               href='https://bit.ly/3vWkgrm'
               target='_blank'
+              rel='noreferrer'
               className='project-links'
               id='nibbler-readme'
             >
@@ -61,6 +63,7 @@ function Projects() {
             <a
               href='https://bit.ly/3sbtr6b'
               target='_blank'
+              rel='noreferrer'
               className='project-links'
               id='doggopedia-website'
             >
@@ -70,6 +73,7 @@ function Projects() {
             <a
               href='https://bit.ly/385jbFN'
               target='_blank'
+              rel='noreferrer'
               className='project-links'
               id='doggopedia-readme'
             >
@@ -97,6 +101,7 @@ function Projects() {
             <a
               href='https://bit.ly/3sd1IBY'
               target='_blank'
+              rel='noreferrer'
               className='project-links'
               id='purely-website'
             >
@@ -106,6 +111,7 @@ function Projects() {
             <a
               href='https://bit.ly/38MH1WO'
               target='_blank'
+              rel='noreferrer'
               className='project-links'
               id='purely-readme'
             >
@@ -131,6 +137,7 @@ function Projects() {
             <a
               href='https://bit.ly/3OXdMkD'
               target='_blank'
+              rel='noreferrer'
               className='project-links'
               id='ecomo-website'
             >
@@ -140,6 +147,7 @@ function Projects() {
             <a
               href='https://bit.ly/385ixIn'
               target='_blank'
+              rel='noreferrer'
               className='project-links'
               id='ecomo-readme'
             >
