@@ -1,13 +1,16 @@
 import React from 'react';
 import * as BsIcons from 'react-icons/bs';
 import * as AiIcons from 'react-icons/ai';
+import Tilt from 'react-parallax-tilt';
 
 function Projects() {
   return (
     <main className='projects-display'>
       <h1 id='projects-title'>My Projects</h1>
       <div className='each-project'>
-        <div id='nibbler'></div>
+        <Tilt>
+          <div id='nibbler'></div>
+        </Tilt>
 
         <div className='project-info'>
           <h1 className='project-titles'>Nibbler Bytes</h1>
@@ -41,7 +44,9 @@ function Projects() {
         </div>
       </div>
       <div className='each-project'>
-        <div id='doggopedia'></div>
+        <Tilt>
+          <div id='doggopedia'></div>
+        </Tilt>
 
         <div className='project-info'>
           <h1 className='project-titles'>Doggopedia</h1>
@@ -74,7 +79,9 @@ function Projects() {
         </div>
       </div>
       <div className='each-project'>
-        <div id='purely'></div>
+        <Tilt>
+          <div id='purely' style={{ scale: 2 }}></div>
+        </Tilt>
 
         <div className='project-info'>
           <h1 className='project-titles'>Purely Podcast</h1>
@@ -108,7 +115,9 @@ function Projects() {
         </div>
       </div>
       <div className='each-project'>
-        <div id='ecomo'></div>
+        <Tilt>
+          <div id='ecomo'></div>
+        </Tilt>
 
         <div className='project-info'>
           <h1 className='project-titles'>Ecomo</h1>

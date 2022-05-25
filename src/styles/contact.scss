@@ -23,6 +23,12 @@ background-size: cover;
   border: 8px solid #C0C0C0;
   margin-top: 14%
 }
+
+.contact-detail-wrappers {
+  display: flex;
+  align-items: center;
+  
+}
 #in-touch {
   font-size: 38px;
 }
@@ -40,13 +46,25 @@ background-size: cover;
 /* visited link */
 .contact a:visited {
   color: #C0C0C0;
+  text-decoration: none;
 }
 
 /* mouse over link */
 .contact a:hover {
   color: #FFFF8F;
+  text-decoration: none;
 }
 
 #email {
   color: #C0C0C0;
+}
+@media only screen and (max-width: 800px) {
+  .contact-info {
+    height: 220px;
+    width: 250px;
+    font-size: 20px
+  }
+#in-touch {
+  font-size: 28px;
+}
 }
