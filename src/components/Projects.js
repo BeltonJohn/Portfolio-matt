@@ -22,6 +22,7 @@ function Projects() {
               href='https://bit.ly/37ZMiKK'
               target='_blank'
               className='project-links'
+              id='nibbler-website'
             >
               <BsIcons.BsLink45Deg />
               Go to Website
@@ -31,6 +32,7 @@ function Projects() {
               href='https://bit.ly/3vWkgrm'
               target='_blank'
               className='project-links'
+              id='nibbler-readme'
             >
               <AiIcons.AiOutlineGithub />
               View Readme
@@ -55,6 +57,7 @@ function Projects() {
               href='https://bit.ly/3sbtr6b'
               target='_blank'
               className='project-links'
+              id='doggopedia-website'
             >
               <BsIcons.BsLink45Deg />
               Go to Website
@@ -63,6 +66,7 @@ function Projects() {
               href='https://bit.ly/385jbFN'
               target='_blank'
               className='project-links'
+              id='doggopedia-readme'
             >
               <AiIcons.AiOutlineGithub /> View Readme
             </a>
@@ -87,6 +91,7 @@ function Projects() {
               href='https://bit.ly/3sd1IBY'
               target='_blank'
               className='project-links'
+              id='purely-website'
             >
               <BsIcons.BsLink45Deg />
               Go to Website
@@ -95,6 +100,7 @@ function Projects() {
               href='https://bit.ly/38MH1WO'
               target='_blank'
               className='project-links'
+              id='purely-readme'
             >
               <AiIcons.AiOutlineGithub /> View Readme
             </a>
@@ -117,6 +123,7 @@ function Projects() {
               href='https://bit.ly/3OXdMkD'
               target='_blank'
               className='project-links'
+              id='ecomo-website'
             >
               <BsIcons.BsLink45Deg />
               Go to Website
@@ -125,6 +132,7 @@ function Projects() {
               href='https://bit.ly/385ixIn'
               target='_blank'
               className='project-links'
+              id='ecomo-readme'
             >
               <AiIcons.AiOutlineGithub /> View Readme
             </a>
