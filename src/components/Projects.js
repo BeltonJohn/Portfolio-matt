@@ -33,7 +33,7 @@ function Projects() {
             </a>
             <br />
             <a
-              href='https://bit.ly/3vWkgrm'
+              href='https://bit.ly/3PHo1df'
               target='_blank'
               rel='noreferrer'
               className='project-links'
@@ -61,7 +61,7 @@ function Projects() {
           </p>
           <div className='project-links'>
             <a
-              href='https://bit.ly/3sbtr6b'
+              href='https://doggopedia2.netlify.app/'
               target='_blank'
               rel='noreferrer'
               className='project-links'
@@ -71,7 +71,7 @@ function Projects() {
               Go to Website
             </a>
             <a
-              href='https://bit.ly/385jbFN'
+              href='https://bit.ly/3wTapmy'
               target='_blank'
               rel='noreferrer'
               className='project-links'
@@ -109,7 +109,7 @@ function Projects() {
               Go to Website
             </a>
             <a
-              href='https://bit.ly/38MH1WO'
+              href='https://bit.ly/3lRql3u'
               target='_blank'
               rel='noreferrer'
               className='project-links'
@@ -145,7 +145,7 @@ function Projects() {
               Go to Website
             </a>
             <a
-              href='https://bit.ly/385ixIn'
+              href='https://bit.ly/3sZybME'
               target='_blank'
               rel='noreferrer'
               className='project-links'
