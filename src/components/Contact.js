@@ -14,7 +14,7 @@ function Contact() {
             <AiIcons.AiFillLinkedin /> Linkedin
           </a>
           <a
-            href='https://github.com/BeltonJohn'
+            href='https://github.com/MDCreese'
             className='contact-detail-wrappers'
           >
             <AiIcons.AiFillGithub /> GitHub
