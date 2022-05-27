@@ -27,7 +27,7 @@ function About() {
         <p>
           Having previously lived and worked in Asia and Southern Spain I love
           to cook and apply engineered solutions to recreate cuisines and dishes
-          previously enjoyed. During the pandemic I built a wok burner in
+          regularly used to enjoy. During the pandemic I built a wok burner in
           pursuit of achieving wok hei and the perfect fried rice.
         </p>
         <br />
