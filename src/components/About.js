@@ -12,10 +12,10 @@ function About() {
           take my curiosity a step further by completing a 480 hour full stack
           Software Engineering Immersive course with General Assembly. I love
           the power of what can be achieved with backend development as much as
-          I enjoy thinking about the functionality, aesthetics and overall user
+          thinking about the functionality, aesthetics and overall user
           experience of frontend development.
         </p>
-        <br />
+        <br />s
         <p>
           I have a passion for nature having obtained an honors degree in
           Environmental Science many moons ago and when I’m away from my machine
@@ -24,7 +24,6 @@ function About() {
           the UK last year.
         </p>
         <br />
-
         <p>
           Having previously lived and worked in Asia and Southern Spain I love
           to cook and apply engineered solutions to recreate cuisines and dishes
@@ -32,7 +31,6 @@ function About() {
           pursuit of achieving wok hei and the perfect fried rice.
         </p>
         <br />
-
         <p>
           Other interests persued in my free are strength sports. As well as
           going to live strongman events as a spectator I enjoy training to
