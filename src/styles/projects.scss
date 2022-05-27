@@ -1,22 +1,31 @@
+.projects-display {
+  background-color: #FFD700;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 #projects-title {
   padding: 80px;
   font-size: 120px;
   color:#301934;
 }
 
-.projects-display {
-  background-color: #FFD700;
-  display:  flex;
-  flex-direction: column;
-  align-items: center;
+
+.each-project {
+  display: flex;
+  flex-direction: row;
+  padding: 25px;
+  margin-bottom: 70px;
 }
 
-.individual-project {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 1%
-}
+// .individual-project {
+//   display: flex;
+//   flex-direction: column;
+//   align-items: center;
+//   margin: 1%
+// }
 
 #nibbler {
   width: 460px;
@@ -95,12 +104,6 @@
   margin-top: 15px;
 }
 
-.each-project {
-  display: flex;
-  flex-direction: row;
-  padding: 25px;
-  margin-bottom: 70px;
-}
 
 .project-info {
   display: flex;
