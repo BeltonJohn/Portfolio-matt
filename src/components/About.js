@@ -15,7 +15,7 @@ function About() {
           thinking about the functionality, aesthetics and overall user
           experience of frontend development.
         </p>
-        <br />s
+        <br />
         <p>
           I have a passion for nature having obtained an honors degree in
           Environmental Science many moons ago and when I’m away from my machine
