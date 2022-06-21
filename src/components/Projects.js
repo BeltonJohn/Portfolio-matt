@@ -17,8 +17,8 @@ function Projects() {
           <h1 className='project-titles'>Ecomo</h1>
           <p>
             This was an 8 day assignment to build a full stack app implementing
-            an SQL database connected to a frontend built with React.js. This
-            app was built entirely by myself and tested all of the skills I had
+            a SQL database connected to a frontend built with React.js. This app
+            was built entirely by myself and tested all of the skills I had
             learnt on the GA course. Linked below:
           </p>
           <div className='project-links'>
