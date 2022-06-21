@@ -134,7 +134,7 @@ function Projects() {
           </p>
           <div className='project-links'>
             <a
-              href='https://bit.ly/37ZMiKK'
+              href='https://mdcreese.github.io/ga-project-1/'
               target='_blank'
               className='project-links'
               rel='noreferrer'
